@@ -1,0 +1,29 @@
+$main-color: #0a2e80;
+$secondary-color: #164dcc;
+$pure-white: #fff;
+$light-white: #eee;
+$dark: #2e2e2e;
+$green-color: #00ffaa;
+$green-color-hover: #0fe29c;
+
+$light-blue-gradient: linear-gradient(
+	45deg,
+	rgba(8, 206, 255, 0.75),
+	rgba(8, 24, 255, 0.75)
+);
+$blue-gradient: linear-gradient(
+	45deg,
+	rgba(0, 0, 0, 0.55),
+	rgba(0, 0, 0, 0.55)
+);
+$purple-gradient: linear-gradient(
+	45deg,
+	rgba(0, 0, 0, 0.75),
+	rgba(0, 200, 255, 0.75)
+);
+$blue-gradient-solid: linear-gradient(45deg, rgb(1, 1, 82), rgb(0, 0, 0));
+$light-blue-gradient-solid: radial-gradient(
+	circle at top right,
+	rgb(15, 62, 173) 0%,
+	rgb(10, 98, 116) 100%
+);
